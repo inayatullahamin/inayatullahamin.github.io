@@ -5,7 +5,7 @@ title: "About"
 description: "National University of Sciences & Technology (NUST)"
 profile:
   align: right
-  image: assets/images/dp2.jpg
+  image: images/dp2.jpg
   address: >
     <p>Building: S3H, Office 214 (FB) National University of Sciences & Technology (NUST)  
     Sector H-12, Islamabad, Pakistan</p>
