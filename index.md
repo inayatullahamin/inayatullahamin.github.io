@@ -1,14 +1,40 @@
 ---
-layout: home
-title: "Inayat Ullah"
+layout: page
+permalink: /about/
+title: "About"
+description: "National University of Sciences & Technology (NUST)"
+profile:
+  align: right
+  image: assets/images/dp2.jpg
+  address: >
+    <p>Building: S3H, Office 214 (FB) National University of Sciences & Technology (NUST)  
+    Sector H-12, Islamabad, Pakistan</p>
+selected_publications: true # includes a list of publications marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
+News: true  # includes a list of news items
+social: true  # includes social icons at the bottom of the page
+order: 1
 ---
 
-👋 Welcome! I am **Assistant Professor** at the Dept. of Government & Public Policy,  
-School of Social Sciences & Humanities, NUST Islamabad.  
+Welcome to my personal website!  
 
-My research spans **public policy, impact evaluation, education, governance, and development economics**.  
+I am currently based in Islamabad where I work as an **Assistant Professor** at the Dept. of Government and Public Policy, National University of Sciences & Technology (NUST). Earlier, I worked as an ISEF Research Fellow at the Environmental Planning Research Institute (EPI), Seoul National University (SNU), South Korea.  
 
-- 📄 [CV](assets/pdfs/Inayat_Ullah__CV.pdf)  
-- 📚 [Publications](publications)  
-- 🧪 [Research Projects & Consultancies](research)  
-- 🎓 [Teaching](teaching)  
+I hold a Ph.D in Public Policy from the Korea Development Institute (KDI), School of Public Policy and Management specializing in impact evaluation of interventions for sustainable development outcomes in developing countries.  
+
+I primarily work with **impact evaluation methods** in experimental and quasi-experimental settings that help policy analysts assess the effectiveness of government policies in an unbiased way. For my Job Market Paper (JMP), we found ideal conditions for a natural experiment that allowed us to establish a causal relationship between a technology-based externally controlled schools' monitoring program and improvements in learning outcomes in the KP province, Pakistan.  
+
+We applied various techniques, including difference-in-differences, event study, and instrumental variables to causally attribute effects to the program. Recently, this research received the **Innovative Policy Best Paper Award (2023)** from the Asian Development Bank (ADB) and the International Economic Association (IEA). The award, with a prize of $7,000, was presented at the [ADB–IEA Award Session](https://events.development.asia/learning-events/winners-2023-adb-iea-innovative-policy-research-award) during the ADB Annual Meeting in May 2023.  
+
+---
+
+### As a researcher, I seek to scientifically answer three important questions: 
+- Whether changes in the well-being of individuals and groups are genuinely attributed to a particular project, program, or policy?  
+- What type of program or policy do governments need to enhance human capital in a sustainable way?  
+- How to make best use of scientific knowledge for existing societies and generations to come?  
+
+---
+
+{:refdef: style="text-align: center;"}
+[📄 CV as PDF]({{ site.baseurl }}/assets/pdfs/Inayat_Ullah_CV.pdf)
+{: refdef}
