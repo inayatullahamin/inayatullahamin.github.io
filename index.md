@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /about/
+permalink: /index/
 title: "About"
 description: "National University of Sciences & Technology (NUST)"
 profile:
