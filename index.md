@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 permalink: /index/
 title: "About"
 description: "National University of Sciences & Technology (NUST)"
