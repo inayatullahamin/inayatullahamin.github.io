@@ -9,6 +9,11 @@ profile:
   address: >
     <p>Building: S3H,Office 214 (FB) National University of Sciences & Technology (NUST)
     Sector H-12, Islamabad, Pakistan</p>
+selected_publications: true # includes a list of publications marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
+News: true  # includes a list of news items
+social: true  # includes social icons at the bottom of the page
+order: 1
 ---
 Welcome to my personal website!
 I am currently based in Islamabad where I work as an **Assistant Professor** at the Dept. of Government and Public Policy, National University of Sciences & Technology (NUST). Earlier, I worked as an ISEF Research Fellow at the Environmental Planning Research Institute (EPI), Seoul National University (SNU), South Korea. I hold Ph.D in Public Policy from the Korea Development Institute (KDI), School of Public Policy and Management specializing in impact evaluation of  interventions for sustainable development outcomes in developing countries. 
