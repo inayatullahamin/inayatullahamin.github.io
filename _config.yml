@@ -9,7 +9,7 @@ linkedin_username: inayatullahamin
 scholar_userid: JwcKpJgAAAAJ
 orcid_id: 0000-0003-0520-0311
 
-theme: minima
+remote_theme: academicpages/academicpages
 
 plugins:
   - jekyll-feed
