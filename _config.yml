@@ -1,27 +1,32 @@
+# -----------------------------------------------------------------------------
 # Site settings
+# -----------------------------------------------------------------------------
 title: "Inayat Ullah"
 email: inayat@kdis.ac.kr
 description: >-
   Personal academic website of Inayat Ullah
 
-# Theme
+# Use the AcademicPages theme
 remote_theme: academicpages/academicpages
 
-# URL settings
-url: "https://inayatullahamin.github.io" # your GitHub Pages URL
-baseurl: "" # leave empty for user site (username.github.io)
+url: "https://inayatullahamin.github.io"  # your GitHub Pages URL
+baseurl: ""  # leave empty for username.github.io
 
+# -----------------------------------------------------------------------------
 # Build settings
+# -----------------------------------------------------------------------------
 markdown: kramdown
 highlighter: rouge
 
-# Plugins (only those allowed on GitHub Pages)
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-remote-theme
   - jekyll-scholar
 
-# Collections
+# -----------------------------------------------------------------------------
+# Collections (optional)
+# -----------------------------------------------------------------------------
 collections:
   teaching:
     output: true
@@ -30,7 +35,9 @@ collections:
   projects:
     output: true
 
+# -----------------------------------------------------------------------------
 # Defaults
+# -----------------------------------------------------------------------------
 defaults:
   - scope:
       path: ""
@@ -38,7 +45,9 @@ defaults:
     values:
       layout: "post"
 
-# Excludes
+# -----------------------------------------------------------------------------
+# Exclude
+# -----------------------------------------------------------------------------
 exclude:
   - Gemfile
   - Gemfile.lock
