@@ -17,7 +17,17 @@ plugins:
   - jemoji
 
 navbar_links:
+  - title: "Home"
+    url: /
+  - title: "Research Projects"
+    url: /projects/
   - title: "Publications"
-    url: /publications/
-  - title: "Working Papers"
-    url: /working-papers/
+    sublinks:
+      - title: "Peer-Reviewed Papers"
+        url: /publications/
+      - title: "Working Papers"
+        url: /working-papers/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Stories"
+    url: /stories/
