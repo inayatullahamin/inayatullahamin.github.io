@@ -1,9 +1,8 @@
 ---
 layout: page
-title: "Publications"
+title: "Peer-Reviewed Papers"
 permalink: /publications/
 ---
 
-Here is a list of my peer-reviewed journal articles and book chapters.  
-
 {% bibliography --file publications %}
+
