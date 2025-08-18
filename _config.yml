@@ -15,3 +15,9 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jemoji
+
+navbar_links:
+  - title: "Publications"
+    url: /publications/
+  - title: "Working Papers"
+    url: /working-papers/
