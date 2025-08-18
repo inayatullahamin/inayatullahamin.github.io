@@ -1,3 +1,5 @@
+remote_theme: academicpages/academicpages
+
 title: "Inayat Ullah"
 email: "inayat@s3h.nust.edu.pk"
 description: "Assistant Professor, Government & Public Policy, NUST Islamabad"
@@ -8,8 +10,6 @@ github_username: inayatullahamin
 linkedin_username: inayatullahamin
 scholar_userid: JwcKpJgAAAAJ
 orcid_id: 0000-0003-0520-0311
-
-remote_theme: academicpages/academicpages
 
 plugins:
   - jekyll-feed
