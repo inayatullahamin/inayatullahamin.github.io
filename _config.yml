@@ -20,10 +20,10 @@ highlighter: rouge
 
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
+  - jemoji
   - jekyll-seo-tag
-  - jekyll-remote-theme
-  - jekyll-scholar
-
+  - jekyll-paginate
 # -----------------------------------------------------------------------------
 # Collections (optional)
 # -----------------------------------------------------------------------------
