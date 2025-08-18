@@ -1,33 +1,46 @@
+# Site settings
+title: "Inayat Ullah"
+email: inayat@kdis.ac.kr
+description: >-
+  Personal academic website of Inayat Ullah
+
+# Theme
 remote_theme: academicpages/academicpages
 
-title: "Inayat Ullah"
-email: "inayat@s3h.nust.edu.pk"
-description: "Assistant Professor, Government & Public Policy, NUST Islamabad"
-url: "https://inayatullahamin.github.io"
-baseurl: ""
+# URL settings
+url: "https://inayatullahamin.github.io" # your GitHub Pages URL
+baseurl: "" # leave empty for user site (username.github.io)
 
-github_username: inayatullahamin
-linkedin_username: inayatullahamin
-scholar_userid: JwcKpJgAAAAJ
-orcid_id: 0000-0003-0520-0311
+# Build settings
+markdown: kramdown
+highlighter: rouge
 
+# Plugins (only those allowed on GitHub Pages)
 plugins:
   - jekyll-feed
-  - jekyll-sitemap
-  - jemoji
+  - jekyll-seo-tag
+  - jekyll-scholar
 
-navbar_links:
-  - title: "Home"
-    url: /
-  - title: "Research Projects"
-    url: /projects/
-  - title: "Publications"
-    sublinks:
-      - title: "Peer-Reviewed Papers"
-        url: /publications/
-      - title: "Working Papers"
-        url: /working-papers/
-  - title: "Teaching"
-    url: /teaching/
-  - title: "Stories"
-    url: /stories/
+# Collections
+collections:
+  teaching:
+    output: true
+  news:
+    output: true
+  projects:
+    output: true
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+# Excludes
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
