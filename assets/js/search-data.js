@@ -466,32 +466,32 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
             },},{
-        id: 'social-',
-        title: '',
+        id: 'social-email',
+        title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("", "_blank");
+          window.open("mailto:%69%6E%61%79%61%74@%73%33%68.%6E%75%73%74.%65%64%75.%70%6B", "_blank");
         },
       },{
-        id: 'social-',
-        title: '',
+        id: 'social-linkedin',
+        title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("", "_blank");
+          window.open("https://www.linkedin.com/in/inayatullahamin", "_blank");
         },
       },{
-        id: 'social-',
-        title: '',
+        id: 'social-x',
+        title: 'X',
         section: 'Socials',
         handler: () => {
-          window.open("", "_blank");
+          window.open("https://twitter.com/InayatUllahAmin", "_blank");
         },
       },{
-        id: 'social-',
-        title: '',
+        id: 'social-scholar',
+        title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("", "_blank");
+          window.open("https://scholar.google.com/citations?user=JwcKpJgAAAAJ", "_blank");
         },
       },{
       id: 'light-theme',
