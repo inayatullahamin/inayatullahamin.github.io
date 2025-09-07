@@ -1,80 +1,52 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
-importance: 4
-category: fun
+title: Post-flood Assessment of Children with Disabilities in Pakistan  
+description: Implemented by Oxford Policy Management (OPM) to study the impact of floods on children with disabilities across affected districts in Pakistan  
+img: assets/img/project-6.jpg
+importance: 6
+category: work
+giscus_comments: false
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+**Funded by [UNICEF Pakistan](https://www.unicef.org/pakistan/)**  
+**Implemented by [Oxford Policy Management (OPM)](https://www.opml.co.uk/our-locations/pakistan)**  
+**Duration:** November 2023 – December 2024  
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+As a**Team Lead** at Oxford Policy Management, Islamabad office, I led a UNICEF-funded research project to assess the post-flood situation of children with disabilities in Pakistan. The study aimed to evaluate the impact of the 2022 floods on children with disabilities, focusing on access to essential services, social inclusion, and vulnerabilities in disaster-affected districts.  
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+This post-flood assessment reveals critical gaps in meeting both basic and specialized needs of this vulnerable group, particularly in times of disaster. The findings highlight the compounded challenges faced by children with disabilities and their caregivers during the 2022 floods.  
+
+The study, conducted in **31 flood-affected districts** across Pakistan, aimed to:  
+- Assess the conditions and vulnerabilities of children with disabilities in the post-flood context.  
+- Understand the impact of the floods on their well-being.  
+- Identify key areas for intervention.  
+- Provide **evidence-based recommendations** to improve resilience and inclusion.  
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/p61.jpg" title="Field data collection in flood-affected districts" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
+Conceptual Framework @UNICEF/OPM/Inayat
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+**Scope of the Study**  
+
+The research explored:  
+- Barriers faced by children with disabilities in accessing healthcare, education, and social protection.  
+- The role of community and institutional support in post-disaster recovery.  
+- Recommendations for strengthening **disability-inclusive disaster response and social policy** in Pakistan.  
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/p62.jpg" title="Team consultations and framework development" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    @UNICEF/OPM/InayatNUST 
 </div>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
 
-{% raw %}
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
 
-{% endraw %}

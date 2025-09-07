@@ -1,80 +1,57 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
-importance: 3
-category: fun
+title: Strengthening Social Protection in Khyber Pakhtunkhwa, Pakistan  
+description: Developing Monitoring & Evaluation Framework for Social Protection Programs in Khyber Pakhtunkhwa, Pakistan  
+img: assets/img/project-5.jpg
+importance: 5
+category: work
+giscus_comments: false
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+**Consultancy for [GIZ Pakistan](https://www.giz.de/en/worldwide/346.html)**  
+**Duration:** July 2024 – April 2025  
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+**The Assignment**
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+As a Monitoring & Evaluation (M&E) Consultant with GIZ Pakistan, I led a team to design a comprehensive Monitoring and Evaluation Framework for social protection programs in **Khyber Pakhtunkhwa (KP)** province. This framework was developed through extensive stakeholder consultations, supervision of data collection, and adaptation of international best practices to the local policy context. The resulting M&E Framework is being adopted by the **Social Protection & Reforms Unit (SPRU), Government of KP**.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/p51.jpg" title="Stakeholder consultation workshop in Peshawar" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
+M&E Indicators for Khyber Pakhtunkhwa Sehat Sahulat Program @GIZ/InayatNUST
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+**Key Focus Areas:** Social assistance,  Social insurance, Labor market support, Social security  
+
+The assignment was conducted in close collaboration with **IMSciences, Peshawar**, which worked in parallel on capacity building of PP-SPRU. The resulting framework is consistent with international standards while tailored to the KP context, enhancing the **efficiency, effectiveness, and sustainability** of social protection initiatives in the region.  
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/p52.jpg" title="Drafting the M&E Framework" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+   Sehat Sahulat Car Delivery Chain Process @GIZ/InayatNUST 
 </div>
+**Scope of the Assignment**  
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+The framework covered **29 social protection programs** across multiple departments, including:  
+- **Social Welfare Department** (7 programs)  
+- **Khyber Pakhtunkhwa Workers Welfare Board** (4 programs)  
+- **Employee Social Security Scheme (ESSI)** (6 programs)  
+- **Zakat & Usher Department** (4 programs)  
+- **Benazir Income Support Program (BISP)** (3 programs)  
+- **Pakistan Bait-ul-Mal** (3 programs)  
+- **TEVTA & SRSP** (2 programs each)  
+- **Forestry, Environment & Wildlife Department (FEWD)** (1 program)  
+- **Social Health Protection Initiative (SHPI)** (1 program)  
+- **Employees Old Age Benefits Institution (EOBI)** (1 program)  
+- **Elementary & Secondary Education Department (ESED)** (1 program)  
+- **Provincial Disaster Management Authority (PDMA)** (1 program)  
 
-{% raw %}
+---
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
 
-{% endraw %}

@@ -1,0 +1,55 @@
+D:
+cd \mywebsite
+bundle exec jekyll serve --livereload
+
+
+
+
+
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+
+
+---
+layout: page
+title: Bridging Hope 
+description: Exploring Pathways to Empower Afghan Refugee Children Through Education in Pakistan
+img: assets/img/project-2.jpg
+importance: 2
+category: work
+giscus_comments: false
+---
+
+**funded by [National University of Sciences and Technology (NUST)](https://nust.edu.pk/)**
+
+**The Uphill Battle**
+
+Details of the project here
+---
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/p21.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+Caption of the Picture. @NUST/Project/Inayat.
+</div>
+
+**More Details down here**
+
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/p22.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+   Caption of the picture. @NUST/Project/Inayat 
+</div>
+

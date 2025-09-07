@@ -1,34 +1,35 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: dp2.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p> Building S3H, Office 114 (FB)</p>
+    <p>Jinnah School of Public Policy and Leadership (JSPPL)</p>
+    <p>NUST, Sector H-12, Islamabad</p>
 
+selected_publications: true # includes a list of publications marked as "selected={true}"
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+News: true  # includes a list of news items
+social: true  # includes social icons at the bottom of the page
+order: 1
+---                         
+Welcome to my personal website!
+I am currently based in Islamabad where I work as an Assistant Professor at the Dept. of Government and Public Policy, National University of Sciences & Technology (NUST). Earlier, I worked as an ISEF Research Fellow at the Environmental Planning Research Institute (EPI), Seoul National University (SNU), South Korea. I hold Ph.D in Public Policy from the Korea Development Institute (KDI), School of Public Policy and Management specializing in impact evaluation of  interventions for sustainable development outcomes in developing countries. 
+I primarily work with impact evaluation methods in experimental and quasi-experimental settings that help policy analysts assess the effectiveness of government policies in an unbiased way. For my JMP, we find ideal conditions for a natural experiment that allowed us to establish a causal relationship between a technology-based externally controlled schools' monitoring program and improvements in learning outcomes in the KP province, Pakistan. We apply various techniques, including difference-in-differences, event study, and instrumental variables to causally attribute effects to the program. Recently, the working paper of this research has received the Innovative Policy Best Paper Award from the Asian Development Bank (ADB) and the International Economic Association (IEA) for the year 2023. This prestigious award, with a prize of $7,000, was formally presented during the ADB-IEA award session at the 2023 ADB Annual Meeting on May 5th, 2023 (the announcement is available at <a href="https://events.development.asia/learning-events/winners-2023-adb-iea-innovative-policy-research-award"> Winners of the 2023 ADB–IEA Innovative Policy Research Award</a>.
 
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+As a researcher, I seek to scientifically answer three important questions: 
 
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
----
-
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+* Whether changes in the well-being of individuals and groups are genuinely attributed to a particular project, program, or policy?
+* What type of program or policy do governments need to enhance the human capital in a sustainable way? 
+* How to make best use of scientific knowledge for existing societies and generations to come?  
+  
+&nbsp;
+{:refdef: style="text-align: center;"}
+[CV as PDF]({{ site.baseurl }}/assets/pdf/Inayat_Ullah__CV.pdf) 
+{: refdef}
+&nbsp;

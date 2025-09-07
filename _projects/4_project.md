@@ -1,80 +1,49 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
-importance: 3
-category: fun
+title: Green Intervention in Pakistan 
+description: Impact Evaluation of Billion Tree Tsunami Afforestation Project in the Province Khyber Pakhtunkhwa, Pakistan
+img: assets/img/project-4.jpg
+importance: 4
+category: work
+giscus_comments: false
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+**Sponsored by [KDI School of Public Policy and Management, Republic of Korea](https://www.kdischool.ac.kr/)**
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+**The Billion Tree Tsunami Project**
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+The Sustainable Development Goals (SDGs) developed by the United Nations (UN) in 2015 brought increased awareness to critical issues such as the environment, employment, and health. These issues hold great significance, particularly for developing countries. Governments, organizations, institutions, and policymakers worldwide have prioritized the SDGs and are actively undertaking initiatives to support the UN's Social Progress Index (SPI).  
+
+In Pakistan, while other provinces participated in the afforestation project under the guidance of the Federal Government in 2019, the province of Khyber Pakhtunkhwa (KP) had already initiated the *Billion Tree Tsunami Afforestation Project (BTTAP)* in 2013. The KP government took this important step towards addressing climate change by focusing on enhancing forest cover, conserving biodiversity, and establishing protected areas within the province.  
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/p41.jpg" title="Forest plantation activity" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
+Afforestation efforts under the Billion Tree Tsunami Project. @KP/Project/BTTAP.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+Under the **KDIS Alumni Working Partner Program**, we evaluated the short-term impact of BTTAP on relevant employment and awareness, as well as the long-term effects on health, environment, pollution, internal migration, and animal habitats. Our evaluation involved collecting data from the general public, project stakeholders, and government officials. Additionally, we leveraged the Pakistan Social Living Standard Measurement (PSLM) data, which offers comprehensive modules related to health and employment, as a valuable panel dataset.  
+
+Although the evaluation of this project is in its early stages, we employed **GIS mapping techniques** to identify treatment areas. Moreover, we utilized the **difference-in-differences** and **instrumental variable approaches** with fixed effects using panel data to control for time and group-specific effects, ensuring a rigorous analysis of the project's impact.  
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/p42.jpg" title="Community awareness program" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+   BTTAP Impact in GIS Maps. @KP/Project/BTTAP 
 </div>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
 
-{% raw %}
+We aim to provide valuable insights into the effectiveness of the BTTAP in addressing environmental concerns, promoting employment, and improving the overall well-being of communities in Khyber Pakhtunkhwa province. The findings of our study contribute to the ongoing efforts towards achieving the SDGs and fostering sustainable development in the region.  
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
+{:refdef: style="text-align: center;"}
+[Click here to view report]({{ site.baseurl }}/assets/pdf/Final Report-Billion Tree Tsunami.pdf)
+{: refdef}
 
-{% endraw %}
+---
+

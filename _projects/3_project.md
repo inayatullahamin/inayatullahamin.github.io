@@ -1,81 +1,50 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Understanding Vulnerabilities of Working Middle Class in Times of Crises
+description: A study on the fragility of Pakistan's working middle class during COVID-19 and beyond
+img: assets/img/project-3.jpg
 importance: 3
 category: work
+giscus_comments: false
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+**funded by [National University of Sciences and Technology (NUST)](https://nust.edu.pk/)**
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+**Background**
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+The middle class in developing countries—defined as those with incomes between the poorest 20% and the richest 20% of the population—remained a vulnerable group, largely unnoticed by the government. In the aftermath of the COVID-19 crisis, households just above the poverty line were more likely to fall below it and suffered disproportionately due to their relatively high consumption basket and low real incomes. Most of the working class in developing countries belonged to this category of the socioeconomic hierarchy.  
+
+Unlike the poorest, the working middle class (including both blue-collar and white-collar workers) remained excluded from direct government transfers such as Pakistan’s Ehsaas Program.  
+
+---
+
+**Impacts of COVID-19**
+
+The unprecedented effects of COVID-19 negatively affected labor outcomes, with many suddenly unemployed. The adverse socioeconomic impacts were evident, but their scale was often unmeasured (UNDP, 2020). Despite more emphasis on the poorest in development policy, the social welfare outcomes of the salaried class were rarely assessed.  
+
+Evidence from the crisis highlighted how many vulnerable employed groups fell into poverty after layoffs, showing why the middle class was more exposed. Understanding this vulnerability was also crucial for designing inclusive welfare policies and economic development strategies.  
+
+---
+
+**Our Contribution**
+
+This project identified a **utility basket** for the middle class in Pakistan, based on a market survey of their monthly income and consumption choices. This enabled policymakers to better gauge the vulnerability of this socioeconomic group in times of crises.  
+
+The study also analyzed existing measures of poverty and assessed their applicability to the salaried class, highlighting how, under constrained socioeconomic conditions, many in the middle class could effectively be classified below the poverty line.  
+
+---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/p31.jpg" title="Household survey during COVID-19" class="img-fluid rounded z-depth-1" %}  
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
+Household survey to assess middle-class consumption and vulnerabilities. @NUST/Project/Inayat
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+**Further Insights**
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+The findings from this project provided evidence for rethinking welfare approaches beyond poverty alleviation. By recognizing the fragility of the working middle class, this research offered policymakers an opportunity to **design inclusive safety nets** that safeguard not only the poorest but also the large segment of salaried workers whose stability is critical for economic resilience.  
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+---
