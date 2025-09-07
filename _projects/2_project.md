@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bridging Hope 
+title: Bridging Hope
 description: Exploring Pathways to Empower Afghan Refugee Children Through Education in Pakistan
 img: assets/img/project-2.jpg
 importance: 2
@@ -14,6 +14,7 @@ giscus_comments: false
 
 Imagine being a parent, torn between sending your child to school or having them earn a meager wage to put the food on the table. This dilemma is a stark reality for many Afghan refugees in Pakistan on daily basis, where 47% of the population is between 7-12 years old and 21% is between 13-17 years old. Lack of basic needs provision, economic hardships, bureaucratic hurdles, and safety concerns on lengthy commutes to schools—all these factors conspire to keep children out of classrooms.
 A team of researchers from the School of Social Sciences and Humanities recently conducted a field research to understand the educational landscape among Afghan refugee families in Pakistan. The team included Dr. Inayat Ullah, Dr. Saeeda Khanum, Dr. Ume Laila, Saqib Hussain and Nadia Hussain. Funded by NUST, the research project uncovered the existing vulnerabilities and challenges that refugees’ children are facing in the country. This study shed light on the critical issues affecting their lives and the efforts needed to improve their future prospects.
+
 ---
 
 <div class="row">
@@ -28,7 +29,7 @@ A mud shelter of a refugee family in Islamabad showing lack of privacy, poor san
 **Unveiling the Challenges**
 
 An estimated 2.6 million Afghan refugees are dispersed globally, with a significant concentration in neighboring Pakistan and Iran. Initially fleeing the Soviet invasion in 1979, subsequent political unrest, including the rise of the Taliban and the 2001 US-led invasion, spurred additional waves of migration to Pakistan, which now hosts one of the largest refugee populations in the world, totaling 1.44 million. Despite ongoing repatriation efforts by the United Nations High Commission for Refugees (UNHCR), many Afghans still remain in Pakistan, either as registered or unregistered refugees. Children make up almost half of the Afghan refugee population residing in Pakistan. Majority of them perform low-paying and hazardous jobs and live-in vulnerable conditions in cities where their focus remains mainly on livelihood and economic outcomes.
-Afghan refugees in Pakistan face numerous challenges, including a lack of basic necessities, regulatory hurdles, and limited access to essential services such as healthcare, education, and formal employment. Although the government has issued Proof of Registration cards to some refugees, these do not grant access to essential public services. Socioeconomic barriers and cultural differences further marginalize Afghan refugee communities, particularly affecting children's education and wellbeing. 
+Afghan refugees in Pakistan face numerous challenges, including a lack of basic necessities, regulatory hurdles, and limited access to essential services such as healthcare, education, and formal employment. Although the government has issued Proof of Registration cards to some refugees, these do not grant access to essential public services. Socioeconomic barriers and cultural differences further marginalize Afghan refugee communities, particularly affecting children's education and wellbeing.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
@@ -52,4 +53,3 @@ This research underscores the critical interplay of demographic, economic, and c
 **The Road Ahead**
 
 Education can play an instrumental role in navigating the complexities of refugee integration. By promoting access to education and opportunities, we can bridge divides, empower communities, and pave a brighter future for Afghan refugee children. This will ensure that these children have the tools they need to succeed and contribute positively to society.
-

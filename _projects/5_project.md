@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Strengthening Social Protection in Khyber Pakhtunkhwa, Pakistan  
-description: Developing Monitoring & Evaluation Framework for Social Protection Programs in Khyber Pakhtunkhwa, Pakistan  
+title: Strengthening Social Protection in Khyber Pakhtunkhwa, Pakistan
+description: Developing Monitoring & Evaluation Framework for Social Protection Programs in Khyber Pakhtunkhwa, Pakistan
 img: assets/img/project-5.jpg
 importance: 5
 category: work
@@ -9,7 +9,7 @@ giscus_comments: false
 ---
 
 **Consultancy for [GIZ Pakistan](https://www.giz.de/en/worldwide/346.html)**  
-**Duration:** July 2024 – April 2025  
+**Duration:** July 2024 – April 2025
 
 **The Assignment**
 
@@ -24,9 +24,9 @@ As a Monitoring & Evaluation (M&E) Consultant with GIZ Pakistan, I led a team to
 M&E Indicators for Khyber Pakhtunkhwa Sehat Sahulat Program @GIZ/InayatNUST
 </div>
 
-**Key Focus Areas:** Social assistance,  Social insurance, Labor market support, Social security  
+**Key Focus Areas:** Social assistance, Social insurance, Labor market support, Social security
 
-The assignment was conducted in close collaboration with **IMSciences, Peshawar**, which worked in parallel on capacity building of PP-SPRU. The resulting framework is consistent with international standards while tailored to the KP context, enhancing the **efficiency, effectiveness, and sustainability** of social protection initiatives in the region.  
+The assignment was conducted in close collaboration with **IMSciences, Peshawar**, which worked in parallel on capacity building of PP-SPRU. The resulting framework is consistent with international standards while tailored to the KP context, enhancing the **efficiency, effectiveness, and sustainability** of social protection initiatives in the region.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
@@ -36,22 +36,21 @@ The assignment was conducted in close collaboration with **IMSciences, Peshawar*
 <div class="caption">
    Sehat Sahulat Car Delivery Chain Process @GIZ/InayatNUST 
 </div>
-**Scope of the Assignment**  
+**Scope of the Assignment**
 
-The framework covered **29 social protection programs** across multiple departments, including:  
-- **Social Welfare Department** (7 programs)  
-- **Khyber Pakhtunkhwa Workers Welfare Board** (4 programs)  
-- **Employee Social Security Scheme (ESSI)** (6 programs)  
-- **Zakat & Usher Department** (4 programs)  
-- **Benazir Income Support Program (BISP)** (3 programs)  
-- **Pakistan Bait-ul-Mal** (3 programs)  
-- **TEVTA & SRSP** (2 programs each)  
-- **Forestry, Environment & Wildlife Department (FEWD)** (1 program)  
-- **Social Health Protection Initiative (SHPI)** (1 program)  
-- **Employees Old Age Benefits Institution (EOBI)** (1 program)  
-- **Elementary & Secondary Education Department (ESED)** (1 program)  
-- **Provincial Disaster Management Authority (PDMA)** (1 program)  
+The framework covered **29 social protection programs** across multiple departments, including:
+
+- **Social Welfare Department** (7 programs)
+- **Khyber Pakhtunkhwa Workers Welfare Board** (4 programs)
+- **Employee Social Security Scheme (ESSI)** (6 programs)
+- **Zakat & Usher Department** (4 programs)
+- **Benazir Income Support Program (BISP)** (3 programs)
+- **Pakistan Bait-ul-Mal** (3 programs)
+- **TEVTA & SRSP** (2 programs each)
+- **Forestry, Environment & Wildlife Department (FEWD)** (1 program)
+- **Social Health Protection Initiative (SHPI)** (1 program)
+- **Employees Old Age Benefits Institution (EOBI)** (1 program)
+- **Elementary & Secondary Education Department (ESED)** (1 program)
+- **Provincial Disaster Management Authority (PDMA)** (1 program)
 
 ---
-
-

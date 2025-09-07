@@ -12,25 +12,25 @@ giscus_comments: false
 
 **Background**
 
-The middle class in developing countries—defined as those with incomes between the poorest 20% and the richest 20% of the population—remained a vulnerable group, largely unnoticed by the government. In the aftermath of the COVID-19 crisis, households just above the poverty line were more likely to fall below it and suffered disproportionately due to their relatively high consumption basket and low real incomes. Most of the working class in developing countries belonged to this category of the socioeconomic hierarchy.  
+The middle class in developing countries—defined as those with incomes between the poorest 20% and the richest 20% of the population—remained a vulnerable group, largely unnoticed by the government. In the aftermath of the COVID-19 crisis, households just above the poverty line were more likely to fall below it and suffered disproportionately due to their relatively high consumption basket and low real incomes. Most of the working class in developing countries belonged to this category of the socioeconomic hierarchy.
 
-Unlike the poorest, the working middle class (including both blue-collar and white-collar workers) remained excluded from direct government transfers such as Pakistan’s Ehsaas Program.  
+Unlike the poorest, the working middle class (including both blue-collar and white-collar workers) remained excluded from direct government transfers such as Pakistan’s Ehsaas Program.
 
 ---
 
 **Impacts of COVID-19**
 
-The unprecedented effects of COVID-19 negatively affected labor outcomes, with many suddenly unemployed. The adverse socioeconomic impacts were evident, but their scale was often unmeasured (UNDP, 2020). Despite more emphasis on the poorest in development policy, the social welfare outcomes of the salaried class were rarely assessed.  
+The unprecedented effects of COVID-19 negatively affected labor outcomes, with many suddenly unemployed. The adverse socioeconomic impacts were evident, but their scale was often unmeasured (UNDP, 2020). Despite more emphasis on the poorest in development policy, the social welfare outcomes of the salaried class were rarely assessed.
 
-Evidence from the crisis highlighted how many vulnerable employed groups fell into poverty after layoffs, showing why the middle class was more exposed. Understanding this vulnerability was also crucial for designing inclusive welfare policies and economic development strategies.  
+Evidence from the crisis highlighted how many vulnerable employed groups fell into poverty after layoffs, showing why the middle class was more exposed. Understanding this vulnerability was also crucial for designing inclusive welfare policies and economic development strategies.
 
 ---
 
 **Our Contribution**
 
-This project identified a **utility basket** for the middle class in Pakistan, based on a market survey of their monthly income and consumption choices. This enabled policymakers to better gauge the vulnerability of this socioeconomic group in times of crises.  
+This project identified a **utility basket** for the middle class in Pakistan, based on a market survey of their monthly income and consumption choices. This enabled policymakers to better gauge the vulnerability of this socioeconomic group in times of crises.
 
-The study also analyzed existing measures of poverty and assessed their applicability to the salaried class, highlighting how, under constrained socioeconomic conditions, many in the middle class could effectively be classified below the poverty line.  
+The study also analyzed existing measures of poverty and assessed their applicability to the salaried class, highlighting how, under constrained socioeconomic conditions, many in the middle class could effectively be classified below the poverty line.
 
 ---
 
@@ -45,6 +45,6 @@ Household survey to assess middle-class consumption and vulnerabilities. @NUST/P
 
 **Further Insights**
 
-The findings from this project provided evidence for rethinking welfare approaches beyond poverty alleviation. By recognizing the fragility of the working middle class, this research offered policymakers an opportunity to **design inclusive safety nets** that safeguard not only the poorest but also the large segment of salaried workers whose stability is critical for economic resilience.  
+The findings from this project provided evidence for rethinking welfare approaches beyond poverty alleviation. By recognizing the fragility of the working middle class, this research offered policymakers an opportunity to **design inclusive safety nets** that safeguard not only the poorest but also the large segment of salaried workers whose stability is critical for economic resilience.
 
 ---

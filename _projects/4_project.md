@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Green Intervention in Pakistan 
+title: Green Intervention in Pakistan
 description: Impact Evaluation of Billion Tree Tsunami Afforestation Project in the Province Khyber Pakhtunkhwa, Pakistan
 img: assets/img/project-4.jpg
 importance: 4
@@ -12,9 +12,9 @@ giscus_comments: false
 
 **The Billion Tree Tsunami Project**
 
-The Sustainable Development Goals (SDGs) developed by the United Nations (UN) in 2015 brought increased awareness to critical issues such as the environment, employment, and health. These issues hold great significance, particularly for developing countries. Governments, organizations, institutions, and policymakers worldwide have prioritized the SDGs and are actively undertaking initiatives to support the UN's Social Progress Index (SPI).  
+The Sustainable Development Goals (SDGs) developed by the United Nations (UN) in 2015 brought increased awareness to critical issues such as the environment, employment, and health. These issues hold great significance, particularly for developing countries. Governments, organizations, institutions, and policymakers worldwide have prioritized the SDGs and are actively undertaking initiatives to support the UN's Social Progress Index (SPI).
 
-In Pakistan, while other provinces participated in the afforestation project under the guidance of the Federal Government in 2019, the province of Khyber Pakhtunkhwa (KP) had already initiated the *Billion Tree Tsunami Afforestation Project (BTTAP)* in 2013. The KP government took this important step towards addressing climate change by focusing on enhancing forest cover, conserving biodiversity, and establishing protected areas within the province.  
+In Pakistan, while other provinces participated in the afforestation project under the guidance of the Federal Government in 2019, the province of Khyber Pakhtunkhwa (KP) had already initiated the _Billion Tree Tsunami Afforestation Project (BTTAP)_ in 2013. The KP government took this important step towards addressing climate change by focusing on enhancing forest cover, conserving biodiversity, and establishing protected areas within the province.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -25,9 +25,9 @@ In Pakistan, while other provinces participated in the afforestation project und
 Afforestation efforts under the Billion Tree Tsunami Project. @KP/Project/BTTAP.
 </div>
 
-Under the **KDIS Alumni Working Partner Program**, we evaluated the short-term impact of BTTAP on relevant employment and awareness, as well as the long-term effects on health, environment, pollution, internal migration, and animal habitats. Our evaluation involved collecting data from the general public, project stakeholders, and government officials. Additionally, we leveraged the Pakistan Social Living Standard Measurement (PSLM) data, which offers comprehensive modules related to health and employment, as a valuable panel dataset.  
+Under the **KDIS Alumni Working Partner Program**, we evaluated the short-term impact of BTTAP on relevant employment and awareness, as well as the long-term effects on health, environment, pollution, internal migration, and animal habitats. Our evaluation involved collecting data from the general public, project stakeholders, and government officials. Additionally, we leveraged the Pakistan Social Living Standard Measurement (PSLM) data, which offers comprehensive modules related to health and employment, as a valuable panel dataset.
 
-Although the evaluation of this project is in its early stages, we employed **GIS mapping techniques** to identify treatment areas. Moreover, we utilized the **difference-in-differences** and **instrumental variable approaches** with fixed effects using panel data to control for time and group-specific effects, ensuring a rigorous analysis of the project's impact.  
+Although the evaluation of this project is in its early stages, we employed **GIS mapping techniques** to identify treatment areas. Moreover, we utilized the **difference-in-differences** and **instrumental variable approaches** with fixed effects using panel data to control for time and group-specific effects, ensuring a rigorous analysis of the project's impact.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
@@ -38,12 +38,10 @@ Although the evaluation of this project is in its early stages, we employed **GI
    BTTAP Impact in GIS Maps. @KP/Project/BTTAP 
 </div>
 
-
-We aim to provide valuable insights into the effectiveness of the BTTAP in addressing environmental concerns, promoting employment, and improving the overall well-being of communities in Khyber Pakhtunkhwa province. The findings of our study contribute to the ongoing efforts towards achieving the SDGs and fostering sustainable development in the region.  
+We aim to provide valuable insights into the effectiveness of the BTTAP in addressing environmental concerns, promoting employment, and improving the overall well-being of communities in Khyber Pakhtunkhwa province. The findings of our study contribute to the ongoing efforts towards achieving the SDGs and fostering sustainable development in the region.
 
 {:refdef: style="text-align: center;"}
 [Click here to view report]({{ site.baseurl }}/assets/pdf/Final Report-Billion Tree Tsunami.pdf)
 {: refdef}
 
 ---
-

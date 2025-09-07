@@ -7,20 +7,20 @@ nav: true
 nav_order: 6
 ---
 
-# 💡 Ideas & Random Thoughts  
+# 💡 Ideas & Random Thoughts
 
-This page is an open notebook — a place to capture thoughts, reflections, or experiments that might not fit into formal publications or projects. It may include quick notes, sketches, images, or anything worth revisiting later.  
-
----
-
-## ✍️ Recent Ideas  
-
-- *August 2025*: Example placeholder for an idea — "How might digital tools be used for inclusive policy dialogue in rural Pakistan?"  
-- *July 2025*: Another placeholder thought — "The role of AI in evaluating social protection frameworks."  
+This page is an open notebook — a place to capture thoughts, reflections, or experiments that might not fit into formal publications or projects. It may include quick notes, sketches, images, or anything worth revisiting later.
 
 ---
 
-## 📷 Visual Sparks  
+## ✍️ Recent Ideas
+
+- _August 2025_: Example placeholder for an idea — "How might digital tools be used for inclusive policy dialogue in rural Pakistan?"
+- _July 2025_: Another placeholder thought — "The role of AI in evaluating social protection frameworks."
+
+---
+
+## 📷 Visual Sparks
 
 <div class="row">
   <div class="col-sm mt-3 mt-md-0">
@@ -34,4 +34,4 @@ This page is an open notebook — a place to capture thoughts, reflections, or e
 
 ---
 
-✨ 
+✨
