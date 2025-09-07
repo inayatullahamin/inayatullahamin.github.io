@@ -1,15 +1,4 @@
-- icon: fas fa-envelope
-  link: "mailto:inayat@s3h.nust.edu.pk"
-  label: "Email"
-
-- icon: fab fa-linkedin
-  link: "https://www.linkedin.com/in/inayatullahamin/"
-  label: "LinkedIn"
-
-- icon: fab fa-twitter
-  link: "https://twitter.com/InayatUllahAmin"
-  label: "Twitter"
-
-- icon: ai ai-google-scholar
-  link: "https://scholar.google.com/citations?user=JwcKpJgAAAAJ"
-  label: "Google Scholar"
+email: inayat@s3h.nust.edu.pk
+linkedin_username: inayatullahamin
+x_username: InayatUllahAmin
+scholar_userid: JwcKpJgAAAAJ
