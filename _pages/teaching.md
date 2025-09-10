@@ -45,7 +45,10 @@ nav_order: 4
 <details>
 <summary><b>Undergraduate BS PA: Public Financial Management</b></summary>
 <ul>
-  <li><a href="{{site.baseurl}}/assets/pdf/Public Financial Management/Course Outline-Public Financial Management.pdf">Syllabus</a></li>
+  <li><a href="{{site.baseurl}}/assets/pdf/PFM/Public_Financial_Management_Course_Outline.pdf">Course Outline</a></li>
+</ul>
+  <ul>
+  <li><a href="{{site.baseurl}}/assets/pdf/PFM/PFM-Lecture 1">Lecture 1</a></li>
 </ul>
 </details>
 
