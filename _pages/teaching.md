@@ -48,7 +48,7 @@ nav_order: 4
   <li><a href="{{site.baseurl}}/assets/pdf/PFM/Public_Financial_Management_Course_Outline.pdf">Course Outline</a></li>
 </ul>
   <ul>
-  <li><a href="{{site.baseurl}}/assets/pdf/PFM/PFM-Lecture 1">Lecture 1</a></li>
+  <li><a href="{{site.baseurl}}/assets/pdf/PFM/PFM-Lecture 1.pdf">Lecture 1</a></li>
 </ul>
 </details>
 
