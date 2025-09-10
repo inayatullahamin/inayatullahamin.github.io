@@ -12,10 +12,8 @@ nav_order: 4
 <details>
 <summary><b> MS/PhD: Applied Statistics for Public Policy Analysis</b></summary>
 <ul>
-  <li><a href="{{site.baseurl}}/assets/pdf/Applied Statistics for Public Policy Anlaysis/Course Outline-Applied Statistics for Management.pdf">Syllabus</a></li>
+  <li><a href="{{site.baseurl}}/assets/pdf/Applied Statistics for Public Policy Anlaysis/Course Outline-Applied_Statistics_for_Public_Policy_Analysis.pdf">Syllabus</a></li>
   <li><a href="{{site.baseurl}}/assets/pdf/Applied Statistics for Public Policy Anlaysis/AS-Lecture 1.pdf">Lecture-1</a></li>
-  <li><a href="{{site.baseurl}}/assets/pdf/Applied Statistics for Public Policy Anlaysis/Project-Assignment-Applied Statistics.pdf">Student Project</a></li>
-  <li><a href="{{site.baseurl}}/assets/pdf/Applied Statistics for Public Policy Anlaysis/Master-File-STATA-workshop.do">STATA Workshop</a></li>
 </ul>
 </details>
 <details>
