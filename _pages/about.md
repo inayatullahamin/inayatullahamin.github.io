@@ -31,6 +31,6 @@ As a researcher, I seek to scientifically answer three important questions:
 
 &nbsp;
 {:refdef: style="text-align: center;"}
-[CV as PDF]({{ site.baseurl }}/assets/pdf/Inayat_Ullah_CV.pdf)
+[CV as PDF]({{ site.baseurl }}/assets/pdf/Inayat_Ullah__CV.pdf)
 {: refdef}
 &nbsp;
