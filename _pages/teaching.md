@@ -43,7 +43,7 @@ nav_order: 4
 <details>
 <summary><b>Undergraduate BS PA: Public Financial Management</b></summary>
 <ul>
-  <li><a href="{{site.baseurl}}/assets/pdf/PFM/Public_Financial_Management_PIMA__Course_Outline.pdf">Course Outline</a></li>
+  <li><a href="{{site.baseurl}}/assets/pdf/PFM/Public_Financial_Management_PIMA_Course_Outline.pdf">Course Outline</a></li>
 </ul>
   <ul>
   <li><a href="{{site.baseurl}}/assets/pdf/PFM/PFM-Lecture 1.pdf">Lecture 1</a></li>
