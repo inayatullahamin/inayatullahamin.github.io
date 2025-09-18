@@ -14,6 +14,8 @@ nav_order: 4
 <ul>
   <li><a href="{{site.baseurl}}/assets/pdf/Applied Statistics for Public Policy Anlaysis/Course Outline-Applied_Statistics_for_Public_Policy_Analysis.pdf">Course Outline</a></li>
   <li><a href="{{site.baseurl}}/assets/pdf/Applied Statistics for Public Policy Anlaysis/AS-Lecture 1.pdf">Lecture-1</a></li>
+   <li><a href="{{site.baseurl}}/assets/pdf/Applied Statistics for Public Policy Anlaysis/Practical Activity on Validity Testing.xlsx">Practical Activity-Validity Testing</a></li>
+   <li><a href="{{site.baseurl}}/assets/pdf/Applied Statistics for Public Policy Anlaysis/AS-Lecture 2.pdf">Lecture-2</a></li>
 </ul>
 </details>
 <details>
