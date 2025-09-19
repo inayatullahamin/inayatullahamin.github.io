@@ -24,7 +24,7 @@ nav_order: 4
 <ul>
   <li><a href="{{site.baseurl}}/assets/pdf/Applied Statistics for Public Health Professionals/Course_Outline_Applied_Statistics_for_Public_Health_Professionals.pdf">Syllabus</a></li>
   <li><a href="{{site.baseurl}}/assets/pdf/Applied Statistics for Public Health Professionals/AS-Lecture 1.pdf">Lecture 1</a></li>
-   <li><a href="{{site.baseurl}}/assets/pdf/Applied Statistics for Public Health Professionals/AS-Lecture 3.pdf">Lecture 3</a></li>
+   <li><a href="{{site.baseurl}}/assets/pdf/Applied Statistics for Public Health Professionals/AS_Lecture_3.pdf">Lecture 3</a></li>
   <li><a href="{{site.baseurl}}/assets/pdf/Applied Statistics for Public Health Professionals/Project-Assignment-Applied Statistics.pdf">Student Project</a></li>
   <li><a href="{{site.baseurl}}/assets/pdf/Applied Statistics for Public Health Professionals/Master-File-STATA-workshop.do">STATA Workshop</a></li>
 </ul>
