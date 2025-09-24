@@ -12,7 +12,7 @@ nav_order: 4
 <details>
 <summary><b> MS/PhD: Applied Statistics for Public Policy Analysis</b></summary>
 <ul>
-  <li><a href="{{site.baseurl}}/assets/pdf/Applied Statistics for Public Policy Anlaysis/Course Outline-Applied_Statistics_for_Public_Policy_Analysis.pdf">Course Outline</a></li>
+  <li><a href="{{site.baseurl}}/assets/pdf/Applied Statistics for Public Policy Anlaysis/Course Outline-Applied_Statistics_for_Public_Policy_Analysis.pdf">Course Outline</a></li> For meeting, please <a href="https://outlook.office.com/bookwithme/user/1b41f4c663a548b1bb07869f5f15cbe0@jsppl.nust.edu.pk?anonymous&ismsaljsauthenabled&ep=plink"> book your time-slot here</a>
   <li><a href="{{site.baseurl}}/assets/pdf/Applied Statistics for Public Policy Anlaysis/AS-Lecture 1.pdf">Lecture-1</a></li>
    <li><a href="{{site.baseurl}}/assets/pdf/Applied Statistics for Public Policy Anlaysis/Practical Activity on Validity Testing.xlsx">Practical Activity-Validity Testing</a></li>
    <li><a href="{{site.baseurl}}/assets/pdf/Applied Statistics for Public Policy Anlaysis/AS-Lecture 2.pdf">Lecture-2</a></li>
