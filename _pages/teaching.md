@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Below are the courses I have taught. Click each course to expand and view syllabus, slides, student projects, and other resources.
+description: Below are the courses I have taught. Click each course to expand and view syllabus, slides, student projects, and other resources. For meeting, please <a href="https://events.development.asia/learning-events/winners-2023-adb-iea-innovative-policy-research-award">book your time here. 
 nav: true
 nav_order: 4
 ---
