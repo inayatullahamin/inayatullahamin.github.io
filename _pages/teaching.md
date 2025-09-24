@@ -2,7 +2,8 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Below are the courses I have taught. Click each course to expand and view syllabus, slides, student projects, and other resources. For meeting, please <a href="https://outlook.office.com/bookwithme/user/1b41f4c663a548b1bb07869f5f15cbe0@jsppl.nust.edu.pk?anonymous&ismsaljsauthenabled&ep=plink"> book your time-slot here</a>. 
+description: Below are the courses I have taught. Click each course to expand and view syllabus, slides, student projects, and other resources. For meeting, please <a href="https://outlook.office.com/bookwithme/user/1b41f4c663a548b1bb07869f5f15cbe0@jsppl.nust.edu.pk?anonymous&ismsaljsauthenabled&ep=plink"> book your time-slot here</a>.
+<a href="https://outlook.office.com/bookwithme/user/1b41f4c663a548b1bb07869f5f15cbe0@jsppl.nust.edu.pk?anonymous&ismsaljsauthenabled&ep=plink"> book your time-slot here</a>
 nav: true
 nav_order: 4
 ---
