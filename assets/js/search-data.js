@@ -23,13 +23,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-teaching",
-          title: "Teaching",
-          description: "Below are the courses I have taught. Click each course to expand and view syllabus, slides, student projects, and other resources. For meeting, please  book your time-slot here.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/teaching/";
-          },
         },{id: "nav-news",
           title: "News",
           description: "",
