@@ -7,10 +7,29 @@ nav: true
 nav_order: 5 # choose where it appears in the navbar
 ---
 ## 2025
-NUST Team’s Research Idea Selected as Finalist in Global Tech4Resilience Challenge
-We are thrilled to share that **NUST’s research idea, _“Intelligent Resilience through Active Learning (ResilientSIGHT)”_, has been selected as one of the 15 global finalists** of the **TECH4Resilience Challenge 2025**, organized by the [Global Resilience Partnership (GRP)](https://www.globalresiliencepartnership.org/tech4resilience-challenge-harnessing-ai-to-tackle-climate-and-humanitarian-crises/). The team inlcuded  **Dr. Inayat Ullah (Team Lead)**  **Dr. Faisal Abbas** **Dr. Sohail Iqbal**  **Ms. Sheeba Tariq**  **Mr. Salah ud Din**
-
-Following a **highly competitive selection process**—with over **300 applications** from around the world—the finalists represent some of the most innovative uses of **technology and artificial intelligence for climate resilience**. Winners will be announced at **COP30** at the **Resilience Hub**, where finalists will compete for up to **USD 50,000** in funding, alongside technical support for implementation, monitoring, and long-term impact.
+<div style="display: flex; align-items: flex-start; gap: 1rem;">
+  <div style="flex: 2;">
+    <p>
+    We are thrilled to share that <strong>NUST’s research idea, <em>“Intelligent Resilience through Active Learning (ResilientSIGHT)”</em></strong>, has been selected as one of the 15 global finalists of the <strong>TECH4Resilience Challenge 2025</strong>, organized by the 
+    <a href="https://www.globalresiliencepartnership.org/announcing-the-finalists-of-the-tech4resilience-challenge/" target="_blank">
+    Global Resilience Partnership (GRP)
+    </a>.
+    </p>
+    <p>
+    The team included <strong>Dr. Inayat Ullah (Team Lead)</strong>, <strong>Dr. Faisal Abbas</strong>, <strong>Dr. Sohail Iqbal</strong>, <strong>Ms. Sheeba Tariq</strong>, and <strong>Mr. Salah ud Din</strong>.
+    </p>
+    <p>
+    Following a <strong>highly competitive selection process</strong>—with over <strong>300 applications</strong> from around the world—the finalists represent some of the most innovative uses of 
+    <strong>technology and artificial intelligence for climate resilience</strong>.
+    </p>
+    <p>
+    Winners will be announced at <strong>COP30</strong> at the <strong>Resilience Hub</strong>, where finalists will compete for up to <strong>USD 50,000</strong> in funding, alongside technical support for implementation, monitoring, and long-term impact.
+    </p>
+  </div>
+  <div style="flex: 1; text-align: right;">
+    <img src="../assets/images/tech4resilience-poster.png" alt="Tech4Resilience Poster" style="max-width: 100%; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);">
+  </div>
+</div>
 
 ## Conference Presentations
 
