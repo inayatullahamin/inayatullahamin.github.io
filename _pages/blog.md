@@ -27,7 +27,7 @@ nav_order: 5 # choose where it appears in the navbar
     </p>
   </div>
   <div style="flex: 1; text-align: right;">
-    <img src="../assets/images/tech4resilience-poster.png" alt="Tech4Resilience Poster" style="max-width: 100%; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);">
+    <img src="../assets/img/tech4resilience-poster.png" alt="Tech4Resilience Poster" style="max-width: 100%; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);">
   </div>
 </div>
 
