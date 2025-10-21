@@ -6,6 +6,11 @@ description:
 nav: true
 nav_order: 5 # choose where it appears in the navbar
 ---
+## 2025
+NUST Team’s Research Idea Selected as Finalist in Global Tech4Resilience Challenge
+We are thrilled to share that **NUST’s research idea, _“Intelligent Resilience through Active Learning (ResilientSIGHT)”_, has been selected as one of the 15 global finalists** of the **TECH4Resilience Challenge 2025**, organized by the [Global Resilience Partnership (GRP)](https://www.globalresiliencepartnership.org/tech4resilience-challenge-harnessing-ai-to-tackle-climate-and-humanitarian-crises/). The team inlcuded  **Dr. Inayat Ullah (Team Lead)**  **Dr. Faisal Abbas** **Dr. Sohail Iqbal**  **Ms. Sheeba Tariq**  **Mr. Salah ud Din**
+
+Following a **highly competitive selection process**—with over **300 applications** from around the world—the finalists represent some of the most innovative uses of **technology and artificial intelligence for climate resilience**. Winners will be announced at **COP30** at the **Resilience Hub**, where finalists will compete for up to **USD 50,000** in funding, alongside technical support for implementation, monitoring, and long-term impact.
 
 ## Conference Presentations
 
