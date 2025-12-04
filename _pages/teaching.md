@@ -8,7 +8,13 @@ nav_order: 4
 ---
 
 ## National University of Sciences & Technology (NUST)
-
+<details>
+<summary><b>LaTeX Overleaf Thesis Writing Workshop</b></summary>
+<ul>
+  <li><a href="{{site.baseurl}}/assets/NUST_Thesis_Template_JSPPL.zip">Click Here to Download NUST_Thesis_Template_JSPPL.zip</a></li>
+</ul>
+  
+</details>
 <details>
 <summary><b> MS/PhD: Applied Statistics for Public Policy Analysis</b></summary>
 <ul>
