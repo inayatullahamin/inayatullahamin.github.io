@@ -9,7 +9,7 @@ giscus_comments: false
 ---
 
 **Funded by [Global Young Academy (GYA)](https://globalyoungacademy.net/)**  
-**Lead Institution:** School of Social Sciences & Humanities (S3H), NUST  
+**Lead Institution:** Jinnah School of Public Policy and Leadership (JSPPL), NUST  
 **Duration:** December 2025 – December 2026  
 **Project Lead:** Dr. Inayat Ullah  
 
