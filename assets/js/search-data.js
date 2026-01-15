@@ -465,9 +465,9 @@ ninja.data = [{
           description: "A comprehensive labor market integration survey conducted in Punjab and Islamabad Capital Territory under the International Organization for Migration (IOM)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-ai-as-a-global-public-good-tackling-inequalities-in-academic-and-scientific-progress",
+          title: 'AI as a Global Public Good- Tackling Inequalities in Academic and Scientific Progress...',
+          description: "Examining global inequalities in access to advanced AI tools and their implications for academic and scientific progress, with a focus on low- and middle-income countries.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
             },},{
