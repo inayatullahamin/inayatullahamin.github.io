@@ -465,6 +465,11 @@ ninja.data = [{
           description: "A comprehensive labor market integration survey conducted in Punjab and Islamabad Capital Territory under the International Organization for Migration (IOM)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
+            },},{id: "projects-",
+          title: '',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/8_project/";
             },},{
         id: 'social-email',
         title: 'email',
