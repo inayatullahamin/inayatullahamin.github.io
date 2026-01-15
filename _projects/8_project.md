@@ -25,7 +25,7 @@ While AI-driven tools promise major gains in research efficiency, collaboration,
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/p81.jpg" title="Global inequalities in access to AI-enabled research tools" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/project-8.png" title="Global inequalities in access to AI-enabled research tools" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -40,7 +40,7 @@ This project will generate **systematic evidence** on inequalities in access to 
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/p82.jpg" title="Global dialogue on inclusive and responsible AI for science" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/p81.png" title="Global dialogue on inclusive and responsible AI for science" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
