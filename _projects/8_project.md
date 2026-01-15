@@ -1,6 +1,6 @@
 ---
 layout: page
-title: AI as a Global Public Good: Tackling Inequalities in Academic and Scientific Progress
+title: AI as a Global Public Good- Tackling Inequalities in Academic and Scientific Progress
 description: Examining global inequalities in access to advanced AI tools and their implications for academic and scientific progress, with a focus on low- and middle-income countries.
 img: assets/img/project-8.jpg
 importance: 8
