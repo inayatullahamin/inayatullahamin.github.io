@@ -8,9 +8,9 @@ profile:
   image: dp2.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p> Building S3H, Office 114 (FB)</p>
-    <p>Jinnah School of Public Policy and Leadership (JSPPL)</p>
-    <p>NUST, Sector H-12, Islamabad</p>
+    <p> PIDE Building, QAU Campus, Islamabad</p>
+    <p>Pakistan Institute of Development Economics</p>
+    <p>Islamabad, Pakistan</p>
 
 selected_publications: true # includes a list of publications marked as "selected={true}"
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -20,14 +20,8 @@ order: 1
 ---
 
 Welcome to my personal website!
-I currently serve as Head of the Research Department at the <a href="https://jsppl.nust.edu.pk/">Jinnah School of Public Policy and Leadership (JSPPL)</a>, <a href="https://jsppl.nust.edu.pk/"> National University of Sciences & Technology (NUST)</a>. Earlier, I worked as an ISEF Research Fellow at the Environmental Planning Research Institute (EPI), Seoul National University (SNU), South Korea. I hold Ph.D in Public Policy from the Korea Development Institute (KDI), School of Public Policy and Management specializing in impact evaluation of interventions for sustainable development outcomes in developing countries.
-I primarily work with impact evaluation methods in experimental and quasi-experimental settings that help policy analysts assess the effectiveness of government policies in an unbiased way. For my JMP, we find ideal conditions for a natural experiment that allowed us to establish a causal relationship between a technology-based externally controlled schools' monitoring program and improvements in learning outcomes in the KP province, Pakistan. We apply various techniques, including difference-in-differences, event study, and instrumental variables to causally attribute effects to the program. Recently, the working paper of this research has received the Innovative Policy Best Paper Award from the Asian Development Bank (ADB) and the International Economic Association (IEA) for the year 2023. This prestigious award, with a prize of $7,000, was formally presented during the ADB-IEA award session at the 2023 ADB Annual Meeting on May 5th, 2023 (the announcement is available at <a href="https://events.development.asia/learning-events/winners-2023-adb-iea-innovative-policy-research-award"> Winners of the 2023 ADB–IEA Innovative Policy Research Award</a>).
-
-As a researcher, I seek to scientifically answer three important questions:
-
-- Whether changes in the well-being of individuals and groups are genuinely attributed to a particular project, program, or policy?
-- What type of program or policy do governments need to enhance the human capital in a sustainable way?
-- How to make best use of scientific knowledge for existing societies and generations to come?
+I currently serve as Chief of Research at <a href="https://pide.org.pk/"> Pakistan Institute of Development Economics (PIDE), Islamabad. Earlier, I worked as Head of the Research Department at the <a href="https://jsppl.nust.edu.pk/">Jinnah School of Public Policy and Leadership (JSPPL)</a>, <a href="https://jsppl.nust.edu.pk/"> National University of Sciences & Technology (NUST)</a>. From 2022 to 2023, I served as Impact Evaluation Researcher under the one-year ISEF Program at the <a href="https://en.snu.ac.kr/index.html"> Seoul National University (SNU) where I worked on several impact evaluation projects. One notable project involved impact evaluation of an innovative technology-based monitoring program on learning outcomes, in which we applied Difference-in-Differences and Event Study techniques to evaluate the effect of a large-scale program in Pakistan. Our paper received the Innovative Policy Research Award for the year 2023 from the Asian Development Bank and the International Economic Association. This prestigious award, with a prize of $7,000, was formally presented during the ADB-IEA award session at the 2023 ADB Annual Meeting on May 5th, 2023 (the announcement is available at <a href="https://events.development.asia/learning-events/winners-2023-adb-iea-innovative-policy-research-award"> Winners of the 2023 ADB–IEA Innovative Policy Research Award</a>). I hold Ph.D in Public Policy from the <a href="https://www.kdischool.ac.kr/"> Korea Development Institute (KDI), School of Public Policy and Management specializing in impact evaluation of interventions for sustainable development outcomes in developing countries.
+I primarily work with impact evaluation methods in experimental and quasi-experimental settings that help policy analysts assess the effectiveness of government policies in an unbiased way. 
 
 &nbsp;
 {:refdef: style="text-align: center;"}
