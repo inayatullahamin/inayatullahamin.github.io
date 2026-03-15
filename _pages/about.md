@@ -8,8 +8,7 @@ profile:
   image: dp2.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p> PIDE Building, QAU Campus, Islamabad</p>
-    <p>Pakistan Institute of Development Economics</p>
+    <p> 1st Floor, PIDE Building , QAU Campus</p>
     <p>Islamabad, Pakistan</p>
 
 selected_publications: true # includes a list of publications marked as "selected={true}"
