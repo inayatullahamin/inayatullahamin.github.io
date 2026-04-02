@@ -9,7 +9,7 @@ nav_order: 4
 
 ## National University of Sciences & Technology (NUST)
 <details>
-<summary><b>STATA Workshop For Beginner</b></summary>
+<summary><b>STATA Workshop For Beginners</b></summary>
 <ul>
   <li><a href="{{site.baseurl}}/assets/pdf/wm.dta">Download example dataset</a></li>
 </ul>
