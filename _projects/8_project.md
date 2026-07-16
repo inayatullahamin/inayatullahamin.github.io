@@ -9,10 +9,9 @@ giscus_comments: false
 ---
 
 **Funded by [Global Young Academy (GYA)](https://globalyoungacademy.net/)**  
-**Lead Institution:** Jinnah School of Public Policy and Leadership (JSPPL), NUST  
 **Duration:** December 2025 – December 2026  
-**Project Lead:** Dr. Inayat Ullah  
-
+**Project Co-Leads:** Inayat Ullah   and Muhammad Qasim
+**Team Members:** Mujtaba Isani, Mustatab Hussain Wahedi, Ovie Edegbene, and Wilson Alavia
 ---
 
 **The Assignment**
